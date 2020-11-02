@@ -3,13 +3,14 @@ Versatile e-commerce website build using node.js and react.js
 ---------------------------------------------------------------------
 First of all install all software like node.js, react js, mongoDb.
 To Run this project both frontend and backend are run at same time in different terminal.
+ 
  Run Frontend
 # open new terminal
-$ cd frontend
+$ cd projectFrontend
 $ npm install
 $ npm start
 
-Run Backend
+Run projectBackend
 $ npm install
 $ npm start
 
